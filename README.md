@@ -1,7 +1,7 @@
 [![An image of @nasrilsa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nasrilsa)](https://holopin.io/@nasrilsa)
 
 <h1 align="center">Hi 👋, I'm Nasril Ilham Saputra</h1>
-<h3 align="center">A Software engineering student from Indonesia</h3>
+<h3 align="center">A Software engineering student from Indonesia, ( I hate php but i love laravel so muchhh...!!💗💘💖💗💗</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasrilsa&label=Profile%20views&color=0e75b6&style=flat" alt="nasrilsa" /> </p>
 
