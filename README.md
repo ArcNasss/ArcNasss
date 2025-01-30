@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Nasril Ilham Saputra</h1>
 <h3 align="center">A Software engineering student from Indonesia, ( I hate php but i love laravel so muchhh...!!💗💘💖💗💗 ) </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasrilsa&label=Profile%20views&color=0e75b6&style=flat" alt="nasrilsa" /> </p>
-
+###
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+###
 - 👀 I’m interested at programming [-](-)
 
 - 🧮 I’m currently studying at SMKN 4 Bojonegoro **-**
