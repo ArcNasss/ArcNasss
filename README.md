@@ -20,6 +20,8 @@
 <a href="https://instagram.com/nasriillham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naasrlilhm_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nasrililhamsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nasrililhamsa" height="30" width="40" /></a>
 </p>
+<hr/>
+<img src="https://raw.githubusercontent.com/ArcNasss/ArcNasss/output/snake.svg" alt="Snake animation" />
 
 [![An image of @nasrilsa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nasrilsa)](https://holopin.io/@nasrilsa)
 <!--<h3 align="left">Languages and Tools:</h3>
