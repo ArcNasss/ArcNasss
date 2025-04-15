@@ -17,8 +17,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/nasrilsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasrilsa" height="30" width="40" /></a>
 <a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazrilsa" height="30" width="40" /></a>
-<a href="https://instagram.com/nasriillham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naasrlilhm_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nasrililhamsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nasrililhamsa" height="30" width="40" /></a>
+<a href="https://instagram.com/nasriillham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naasriillham_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nasrililhamsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nasrililhams" height="30" width="40" /></a>
 </p>
 <hr/>
 <img src="https://raw.githubusercontent.com/ArcNasss/ArcNasss/output/snake.svg" alt="Snake animation" />
