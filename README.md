@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nasril Ilham Saputra</h1>
-<h3 align="center">A Software engineering student from Indonesia, ( I hate php btw🤫 ) </h3>
+
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
