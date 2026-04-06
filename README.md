@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
 </p>
 <h1 align="center">Hi 👋, I'm Nasril Ilham Saputra</h1>
-<h4 align="center"> Umm I’m not gonna explain myself here. If you wanna know me, just check my repo. </h4>
+<h4 align="center"> Umm I’m not gonna explain myself here.</h4>
 
 
 
